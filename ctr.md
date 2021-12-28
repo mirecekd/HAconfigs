@@ -4,7 +4,7 @@
 ### LAN
 
 ### ZigBee gateway
-SILVERCREST® Zigbee 3.0 Smart Home Gateway - https://paulbanks.org/projects/lidl-zigbee/
+SILVERCREST Zigbee 3.0 Smart Home Gateway - https://paulbanks.org/projects/lidl-zigbee/
 
 ## Google Homes 
 Google home mini, Google home, Google home hub 
@@ -17,5 +17,8 @@ LG SmartThinQ HVAC - https://github.com/sampsyo/hass-smartthinq
 
 ## Vacuum
 Xiaomi Mi Vacuum EU - https://github.com/Hypfer/Valetudo
+
+## Lawn Mower
+Worx Landroid M700 - https://community.home-assistant.io/t/worx-landroid-package/119345
 
 
