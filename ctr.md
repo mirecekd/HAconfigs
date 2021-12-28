@@ -1,9 +1,9 @@
 # Crap&Things&Resources connected to my Home Assistant
 
-## Network
-### OpenWRT
+## Networks
+### LAN
 
-## ZigBee gateway
+### ZigBee gateway
 SILVERCREST® Zigbee 3.0 Smart Home Gateway - https://paulbanks.org/projects/lidl-zigbee/
 
 ## Google Homes 
