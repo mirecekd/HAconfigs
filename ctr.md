@@ -124,4 +124,6 @@ NeoCoolCam 16A
 HP LaserJet n1120MFP
 Ender 3 + Octoprint (OctoPI) + RasPiCAM
 
-#Node-RED
+# Node-RED
+with nBrowser
+https://github.com/mirecekd/node-red-rpi-nbrowser
