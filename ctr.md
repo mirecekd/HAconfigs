@@ -1,7 +1,8 @@
 # Crap&Things&Resources connected to my Home Assistant
 
 ## Dashboard
-Fully Kiosk Browser on Samsung Galaxy Tab 10.1 (GT-N8000)
+Fully Kiosk Browser on Samsung Galaxy Tab 10.1 (GT-N8000) - Lovelace dashboard
+Lovelace dashboard on Google Home Hub
 
 
 ## Energy
@@ -15,12 +16,16 @@ Shelly 3EM https://photos.google.com/album/AF1QipNHrbfQyY810hvfmh9RmWOIP9Jx95w-C
 
 RPI4 + SSD 256G
 
+
 ### LAN
 
 TP-Link infrastructure (routers, APs, switches - 1Gbps infra, PAPs) - OpenWRT
 
+
 ### Synology
+
 DS218+
+
 
 ### ZigBee gateway
 
@@ -63,19 +68,23 @@ Xiaomi Mi Vacuum EU - https://github.com/Hypfer/Valetudo
 
 Xiaomi Mi Body Scale 2 - integration via ESPhome
 
+
 ## Lawn Mower
 
 Worx Landroid M700 - https://community.home-assistant.io/t/worx-landroid-package/119345
 
-## Lights
 
+## Lights
 ### Flux Led/ MagicHome
 5x AK001 (original FW) - Flux LED integration
+
 
 ### In-wall Switches
 2x Shelly1
 
+
 ## IFTT Integration
+
 
 ## KODI
 
@@ -90,11 +99,14 @@ Met.no, OpenWeather, own sensors
 
 AndroidTV
 
+
 ## Sensors
 
 Vindriktning - https://photos.app.goo.gl/D23yBLHtBqErnvnb8
 
+
 ## Tasmota
+
 Sonoff1
 
 7x NodeMCUs
@@ -104,15 +116,12 @@ Sonoff1
 - SR04
 - BME280
 - BMP280
-- 
-
 
 NeoCoolCam 16A
 
 ## Printers
 
 HP LaserJet n1120MFP
-
 Ender 3 + Octoprint (OctoPI) + RasPiCAM
 
 #Node-RED
