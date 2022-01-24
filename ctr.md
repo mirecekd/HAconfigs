@@ -1,4 +1,4 @@
-# Crap&Things&Resources connected to my Home Assistant
+# Crap&Things&Resources connected to my home
 
 ## Dashboard
 Fully Kiosk Browser on Samsung Galaxy Tab 10.1 (GT-N8000) - Lovelace dashboard
