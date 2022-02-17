@@ -4,4 +4,6 @@ MirecekD's Home Assistant config and screenshots, [Crap&Things&Resources connect
 
 ![Screenshot](homeassistant_dashes/DASHmain.png)
 
+![Screenshot](homeassistant_dashes/IMG_20220214_190025.jpg)
+
 ![Screenshot](homeassistant_dashes/HAmain.png)
