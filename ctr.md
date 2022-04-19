@@ -19,7 +19,11 @@ RPI4 + SSD 256G
 
 ### LAN
 
-TP-Link infrastructure (routers, APs, switches - 1Gbps infra, PAPs) - OpenWRT
+#### router
+Mikrotik hEX (RB750Gr3)
+
+#### WIFI
+TP-Link infrastructure (APs, switches - 1Gbps infra, PAPs) - OpenWRT
 
 
 ### Synology
